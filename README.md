@@ -5,7 +5,7 @@ Includes **planning-scene grasp** (attach/detach) for a clean, reviewer-visible 
 
 ## 🎥 Pick & Place Demo
 
-[▶️ Click to play demo](media/pick_place_demo.webm)
+![Pick & Place Demo](media/pick_place_demo.gif)
 
 This demo shows a UR5e performing a pick-and-place task using ROS 2 Jazzy and MoveIt2 with planning-scene grasp (attach/detach).
 
