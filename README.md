@@ -8,7 +8,7 @@ Includes **planning-scene grasp** (attach/detach) for a clean, reviewer-visible 
 - Place: fixed drop zone
 - Grasp: MoveIt **PlanningScene attach/detach** (stage-1 digital-twin grasp)
 
-![Pick and Place Demo](media/pick_place_demo.gif)
+![Pick and Place Demo](https://raw.githubusercontent.com/NILAMATHI1999/ur5e-moveit2-pick-place/main/media/pick_place_demo.gif)
 
 > Note: This is not Gazebo physics grasp yet. It’s the standard first stage used in industry/research for planning.
 
