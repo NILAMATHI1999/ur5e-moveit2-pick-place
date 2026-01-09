@@ -79,5 +79,3 @@ ros2 run hri_manipulation pose_sender
 * YAML-config scene loader (digital twin)
 * Real perception input for object pose
 
-````
-
