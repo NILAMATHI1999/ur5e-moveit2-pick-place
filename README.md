@@ -3,12 +3,11 @@
 Simulation-first industrial pick & place pipeline using **ROS 2 Jazzy + MoveIt2 + UR5e**.
 Includes **planning-scene grasp** (attach/detach) for a clean, reviewer-visible demo.
 
-## Demo
-- Pick: from object pose (`/object_pose`)
-- Place: fixed drop zone
-- Grasp: MoveIt **PlanningScene attach/detach** (stage-1 digital-twin grasp)
+## 🎥 Pick & Place Demo
 
-![Pick and Place Demo](https://raw.githubusercontent.com/NILAMATHI1999/ur5e-moveit2-pick-place/main/media/pick_place_demo.gif)
+[▶️ Click to play demo](media/pick_place_demo.webm)
+
+This demo shows a UR5e performing a pick-and-place task using ROS 2 Jazzy and MoveIt2 with planning-scene grasp (attach/detach).
 
 > Note: This is not Gazebo physics grasp yet. It’s the standard first stage used in industry/research for planning.
 
